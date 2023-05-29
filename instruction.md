@@ -12,7 +12,5 @@
 * *git checkout master* - вернуться к актуальному состоянию и продолжить работу;
 * *git commit -m 'message'* - флаг, добавить комментарий к действию;
 * *git init.* - чтобы поставить флаг;
-* *![иллюстрация к проекту] (ссылка на картинку)* - так добавляем картинку.
+
 ![ЛОГО](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2560px-Git-logo.svg.png "Логотип")
-
-
