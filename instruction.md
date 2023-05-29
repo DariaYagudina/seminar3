@@ -14,3 +14,10 @@
 * *git init.* - чтобы поставить флаг;
 
 ![ЛОГО](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2560px-Git-logo.svg.png "Логотип")
+
+Перейдя по ссылке ниже, вы откроете гайд для начинающих по эксплуатации GIT. Расслабьтесь и наслаждайтесь.
+
+! https://proglib.io/p/git-for-half-an-hour
+
+![Картинка для привлечения внимания](tut.jpg "Важная картинка")
+
