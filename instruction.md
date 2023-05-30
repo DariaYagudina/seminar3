@@ -23,3 +23,5 @@
 
 # Займемся вторым семинаром
 > *git branch [branch name]* - создать ветку под названием branch name
+
+>git branch -d [branch_name] - удалить ветку под названием branch_name
